@@ -2,10 +2,10 @@
 //
 
 #include "stdafx.h"
+#include "dia2.h"
 #include "diacreate.h"
 int main()
 {
-
     return 0;
 }
 
